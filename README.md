@@ -1,4 +1,4 @@
-# vue3-app-test
+# Composition API vs Options API
 
 ## Project setup
 ```
