@@ -159,15 +159,6 @@ export default {
 </script>
 
 
-<style scoped>
-  .roll-the-dice ul {
-    width: 12rem;
-    text-align: left;
-    margin: auto;
-    list-style-type: decimal;
-  }
-  .roll-the-dice .dice {
-    border: 2px solid black;
-    padding: 0.5rem;
-  }
+<style lang="scss">
+@import "../styles/components/roll-the-dice.scss";
 </style>

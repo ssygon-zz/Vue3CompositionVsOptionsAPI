@@ -1,0 +1,13 @@
+.roll-the-dice {
+  ul {
+    width: 12rem;
+    text-align: left;
+    margin: auto;
+    list-style-type: decimal;
+  }
+
+  .dice {
+    border: 2px solid black;
+    padding: 0.5rem;
+  }
+}
