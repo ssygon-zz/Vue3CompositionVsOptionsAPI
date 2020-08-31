@@ -75,7 +75,7 @@ export default {
     }
   },
   // Initial setup
-  setup(props) {
+  setup(props:any) {
 
     // Instantiate for template
     let count = ref(0)
@@ -123,7 +123,7 @@ export default {
     }
   },
   // Initial setup
-  setup(props) {
+  setup(props: any) {
 
     // Instantiate for template
     const state = reactive({
